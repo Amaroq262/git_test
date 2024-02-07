@@ -1,0 +1,2 @@
+Further testing for the <git add> command and the difference between 
+"working area" and "staging area".
